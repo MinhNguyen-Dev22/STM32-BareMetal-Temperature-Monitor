@@ -3,11 +3,12 @@
 > High-performance, register-level bare-metal firmware developed for the **STM32F401CCU6** (Black Pill) microcontroller. Interfaces with a **BMP280 Barometric Pressure & Temperature Sensor** (via SPI) and an **LM75 Temperature Sensor** (via I2C), transmitting real-time compensated values over **USART1**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-STM32F401--BlackPill-blue?style=for-the-badge&logo=stmicroelectronics" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Language-C%20%2F%20Assembly-orange?style=for-the-badge" alt="Language"/>
-  <img src="https://img.shields.io/badge/Style-Register--Level-green?style=for-the-badge" alt="Style"/>
+  <img src="https://img.shields.io/badge/Platform-STM32F401-blue" alt="Platform"/>
+  <img src="https://img.shields.io/badge/Language-C%20%2F%20Assembly-orange" alt="Language"/>
+  <img src="https://img.shields.io/badge/Style-Register--Level-green" alt="Style"/>
+  <img src="https://img.shields.io/badge/Sensor-BMP280%2C%20LM75-orange" alt="Sensor"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"/>
 </p>
-
 ---
 
 ## 🚀 Project Overview
